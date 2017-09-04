@@ -51,7 +51,7 @@ getUsers()
 ## Disabling in current scope
 
 If you want to use the original bitwise negation operator, you can disable this plugin in
-current scope (and it children scopes) using `'no implicit function` directive.
+current scope (and it children scopes) using `'no implicit function'` directive.
 
 ## Installation
 
